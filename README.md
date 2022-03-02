@@ -1,4 +1,4 @@
-# create png diagrams using graphvis and diagrams
+# create png diagrams using graphvis and diagrams packages
 
 https://medium.com/@arnab.sen44/create-neat-technical-diagrams-using-python-4e5296b78c02
 
